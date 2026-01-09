@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-01-09T10:38:55-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Skylar Walsh's LIS4365 Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2026-01-09T10:38:56-05:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

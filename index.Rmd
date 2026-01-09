@@ -1,0 +1,5 @@
+---
+title: "Skylar Walsh's LIS4365 Blog"
+site: distill::distill_website
+listing: posts
+---
