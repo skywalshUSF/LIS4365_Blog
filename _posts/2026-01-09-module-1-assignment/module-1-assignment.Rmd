@@ -35,7 +35,7 @@ In this module, I recognized that the syntax for JavaScript may be different fro
 
 What is your experience with web development? etc.
 
-My experience with web development began with creating my first domain name for a website and taking a World Wide Web page design and management course, where I explored basic HTML syntax, which allowed me to understand text documents that contain formatting instructions called tags, learn how to add information contained within an element's opening and closing tags, and determine which elements do not require a closing tag. Throughout this experience, I also became more familiar with web communication protocols and expanded my knowledge on XML and HTML.
+My experience with web development began with creating my first domain name for a website and taking a World Wide Web page design and management course, where I explored basic HTML syntax, which allowed me to understand text documents that contain formatting instructions called tags, learn how to add information contained within an element's opening and closing tags, and determine which elements do not require a closing tag. Throughout this experience, I also became more familiar with FTP, file transfer protocol and expanded my knowledge on iframes and basic javascript for messages and a webform.
 
 
 
