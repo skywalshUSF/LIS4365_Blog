@@ -1,0 +1,38 @@
+---
+title: "Module 1 Assignment"
+description: |
+  Blog Setup and Website Link
+preview: 
+author:
+  - name: Skylar Walsh
+date: 2026-01-09
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+1.  Open an account on our web hosting site:
+
+Welcome to my new website for LIS4365 hosted on infinityfree.net.
+
+Here is the link to my website:
+
+<https://skylarwalshlis4365.infinityfree.me/>
+
+2.  Create a blog where you will share your own experience in the class in your own words.
+
+Here is the link to my new blog:
+
+<https://skylarwalshlis4365.netlify.app/>
+
+describe what was hard to learn in this module, are you familiar with programming languages?
+
+What is your experience with web development? etc.
+
+Your first entry to your blog is your link to your website address you will use in this class (which is shown above) that displays the following image:
+
+![](LIS4365_Module1.jpg)
