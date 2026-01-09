@@ -2,7 +2,7 @@
 title: "Module 1 Assignment"
 description: |
   Blog Setup and Website Link
-preview: 
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-09-module-1-assignment/LIS4365_Module1.jpg?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-01-09

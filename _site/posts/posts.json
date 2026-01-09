@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/welcome/",
-    "title": "Welcome to Skylar Walsh's LIS4365 Blog",
-    "description": "Welcome to our new blog, Skylar Walsh's LIS4365 Blog. We hope you enjoy \nreading what we have to say!",
-    "author": [
-      {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
-      }
-    ],
-    "date": "2026-01-09",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2026-01-09T10:38:34-05:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2026-01-09-module-1-assignment/",
     "title": "Module 1 Assignment",
     "description": "Blog Setup and Website Link",
@@ -29,8 +12,8 @@
     "date": "2026-01-09",
     "categories": [],
     "contents": "\r\nOpen an account on our web hosting site:\r\nWelcome to my new website for LIS4365 hosted on infinityfree.net.\r\nHere is the link to my website:\r\nhttps://skylarwalshlis4365.infinityfree.me/\r\nCreate a blog where you will share your own experience in the class in your own words.\r\nHere is the link to my new blog:\r\nhttps://skylarwalshlis4365.netlify.app/\r\ndescribe what was hard to learn in this module, are you familiar with programming languages?\r\nWhat is your experience with web development? etc.\r\nYour first entry to your blog is your link to your website address you will use in this class (which is shown above) that displays the following image:\r\n\r\n\r\n\r\n\r\n",
-    "preview": {},
-    "last_modified": "2026-01-09T11:12:16-05:00",
+    "preview": "https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-09-module-1-assignment/LIS4365_Module1.jpg?raw=true",
+    "last_modified": "2026-01-09T11:17:02-05:00",
     "input_file": "module-1-assignment.knit.md"
   }
 ]
