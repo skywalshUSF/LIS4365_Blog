@@ -2,7 +2,7 @@
 title: "Module 2 Assignment"
 description: |
   Creating first website homepage using HTML and CSS.
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-09-module-1-assignment/LIS4365_Module1.jpg?raw=true
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-19-module-2-assignment/html-js-css-website-coding.jpg?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-01-19
@@ -31,4 +31,6 @@ And the link to the new module 3 page:
 
 <https://skylarwalshlis4365.infinityfree.me/Module3.html>
 
-Some of the challenges I faced involved
+Learning HTML and CSS presents me with some unique challenges. JavaScript is similarly confusing, and it is a language full of unfamiliar quirks. Some of the challenges I faced involved where to embed JavaScript tags, understanding the layout and positioning of style sheets, and syntax for HTML and CSS. Figuring out where to embed JavaScript tags, especially adding a link in JavaScript within a script tag, was particularly hard. It is not always easy getting a web page to link to another web page on the same website. The second challenge, understanding the layout, required a lot of thought because I have to make sure my text elements are aligned properly while changing text size and style of a hyperlink and paragraphs. The third challenge, syntax, can almost easily be encountered. Sometimes, I miss a semicolon in CSS or forget to close a tag in HTML that causes my layout to be broken, which requires a lot of debugging if I make that mistake. I do, however, believe I can overcome these challenges and become interested in learning these software applications more closely, including additional ones, such as PHP and MySQL.
+
+
