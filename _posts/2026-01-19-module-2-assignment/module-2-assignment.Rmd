@@ -1,0 +1,34 @@
+---
+title: "Module 2 Assignment"
+description: |
+  Creating first website homepage using HTML and CSS.
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-09-module-1-assignment/LIS4365_Module1.jpg?raw=true
+author:
+  - name: Skylar Walsh
+date: 2026-01-19
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+1.  Create your first website homepage using HTML and Cascading Style Sheet (CSS) and upload it to your website. Upload those files to your website using FTP only. Then, post in your blog the difficulties you encounter. For example, problems with HTML editor, problems with hosting website, etc.
+
+Here is the link to my website's homepage:
+
+<https://skylarwalshlis4365.infinityfree.me/?i=1>
+
+The first thing I did was revisit some of the HTML code, CSS styling, and JavaScript techniques that I learned about in LIS 3361. I opened up my favorite text editor, Notepad++, after reading the assigned text, and looked over all of the code I wrote for the many files that made up my website. Some of the HTML and CSS was helpful to create the new website. After creating my webpages and style sheet, I used the FTP file manager provided by Infinity Free to upload my documents to the hosting service. I started with a home page and set it up similar to LIS 3361 with a navigation link column on the left frame and a content frame on the right. I set up the home page to display module 1 and then added links for module 2 and the new module 3 page. On the module 2 page, I added a link to the module 3 page and some simple JavaScript, and on the module 3 page, I added the required title, name, and simple JavaScript example.
+
+Here is the link to module 2 assignment:
+
+<https://skylarwalshlis4365.infinityfree.me/Module2.html>
+
+And the link to the new module 3 page:
+
+<https://skylarwalshlis4365.infinityfree.me/Module3.html>
+
+Some of the challenges I faced involved
