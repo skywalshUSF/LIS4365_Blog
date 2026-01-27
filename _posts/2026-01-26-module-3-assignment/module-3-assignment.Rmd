@@ -15,6 +15,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Here is a link to the home page of my website that includes a link to the module 3 page:
+
+<https://skylarwalshlis4365.infinityfree.me/?i=2>
+
+These are responses to our module 3 tasks:
+
 1.  Test and see if the code is correct.
 
 Report your finding in your blog and describe what is the object and what are the variables in that code.
