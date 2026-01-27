@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2026-01-26-module-3-assignment/",
+    "title": "Module 3 Assignment",
+    "description": "Testing, Reading, and using Photoshop or any other image app",
+    "author": [
+      {
+        "name": "Skylar Walsh",
+        "url": {}
+      }
+    ],
+    "date": "2026-01-26",
+    "categories": [],
+    "contents": "\r\nTest and see if the code is correct.\r\nReport your finding in your blog and describe what is the object and what are the variables in that code.\r\nThe logic and the syntax in the code runs correctly when both the script tags and the p tags are within the body tag of my HTML page. The code initializes two numerical values, sums them, and inserts a string containing the result into an HTML element with the ID called “demo”.\r\nVariables are containers for storing data values. In my code, “var” was used to declare three distinct variable names. The first variable is “price1”, which is a variable holding an integer value of 5. The second variable is “price2”, which is a variable holding an integer value of 6. The third variable is “total”, which is a variable that stores the result of the expression “price1 + price2”, and when I ran it on the web, it evaluated to 11.\r\nIn the code, the main object is “document”, which is a built-in object provided by the browser, and this is the entryway to the web page’s content.\r\nI realized from my Eloquent JavaScript readings that even though “var” works fine for declaring variables, JavaScript generally uses “let” for variables that might change and “const” for variables that stay the same.\r\nRead Chapter 2-4 in our textbook: Eloquent JavaScript\r\nCreate one image in Photoshop/or any image apps you like and save the file as 1) PNG, 2) GIF and 3) JPG. Post the three image files on your website under Module # 3. Then test to see, which image format (PNG, GIF, and JPG) work best regarding: The quality of the image, the speed the image download to the browser and the image transparency to desktop computer and mobile phone. In your blog, discuss your findings regarding the quality, speed and transparency of the images.\r\nHere are the resulting images:\r\n.jpg\r\n\r\n.png\r\n\r\n.gif\r\n\r\nStarting with the quality of the image, my PNG image used lossless compression and retained every pixel of the data. The image was good for clarity, even though the file size was large. For the GIF image, I noticed that the image had limited colors, which means that GIF image quality will only be good if the image were to be smaller. For the JPG image, it used lossy compression. The image appeared to remove some data to shrink the file size. While it is great as a photograph, it created some blocks of white on the edges of the image.\r\nThe next concept of image format that I tested is the speed. The file was heavy when I downloaded the PNG version of the image. A high-quality PNG can be much larger than a JPG. This slowed down page load times on my phone. For the GIF image, it had effective speed, but if it had larger animations, the speed would be much slower. The JPG image was the best for speed when I downloaded and opened the image as that file type. Because it was lossy, I was able to shrink the photo to speed up its performance of being displayed and downloaded.\r\nThe final concept of image format that I tested is transparency. My PNG image worked best for transparency. It was able to handle semi-transparent and faded edges the most. For the GIF image, the transparency was good, but I realized that its format is really old, which means it has a limited palette structure. For the JPG image, there was no transparency support. The JPG was rectangular, and the empty space was filled with solid white.\r\n\r\n\r\n\r\n",
+    "preview": "https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-19-module-2-assignment/html-js-css-website-coding.jpg?raw=true",
+    "last_modified": "2026-01-26T19:34:24-05:00",
+    "input_file": "module-3-assignment.knit.md"
+  },
+  {
     "path": "posts/2026-01-19-module-2-assignment/",
     "title": "Module 2 Assignment",
     "description": "Creating first website homepage using HTML and CSS.",
