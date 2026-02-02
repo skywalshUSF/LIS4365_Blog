@@ -15,9 +15,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Here is a link to the home page of my website that includes navigational links to modules 2-4 webpages:
+Here is a link to the module 4 webpage:
 
-<https://skylarwalshlis4365.infinityfree.me/>
+<https://skylarwalshlis4365.infinityfree.me/Module4.html>
 
 These are responses to our module 4 tasks:
 
