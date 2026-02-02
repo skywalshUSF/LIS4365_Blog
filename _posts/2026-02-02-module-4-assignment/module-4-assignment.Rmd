@@ -2,7 +2,7 @@
 title: "Module 4 Assignment"
 description: |
   Creating conditional statement, Debugging JavaScipt code, and Adobe Photoshop
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-01-26-module-3-assignment/EvergladesWaterStreamsJPG.jpg?raw=true
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-02-02-module-4-assignment/demonstrate.jpg?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-02-02
