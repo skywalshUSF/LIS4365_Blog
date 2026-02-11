@@ -2,7 +2,7 @@
 title: "Module 5 Assignment"
 description: |
   JavaScript Validation and WireFrame Design
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-02-02-module-4-assignment/demonstrate.jpg?raw=true
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-02-11-module-5-assignment/mod5form.png?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-02-11
