@@ -2,7 +2,7 @@
 title: "Module 6 and 7 Assignment"
 description: |
   Introduction to PHP Functions and Strings
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-02-11-module-5-assignment/mod5form.png?raw=true
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-02-16-module-6-and-7-assignment/phptest1.png?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-02-16
