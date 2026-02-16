@@ -1,0 +1,46 @@
+---
+title: "Module 6 and 7 Assignment"
+description: |
+  Introduction to PHP Functions and Strings
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-02-11-module-5-assignment/mod5form.png?raw=true
+author:
+  - name: Skylar Walsh
+date: 2026-02-16
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## These are responses to our module 6 and 7 tasks:
+
+1.  Create any type of function and string I covered in both presentations. Implement it and execute it on your testing on your website server. Remember to save the file as .PHP and not HTML. You will upload this assignment to your web server in order to review.
+
+Here is a link to the module 6 and 7 webpage that runs the .php file tests:
+
+<https://skylarwalshlis4365.infinityfree.me/Modules6and7.html>
+
+2.  In your blog entry discuss the connection between functions and strings in PHP and discuss how you implemented functions and strings in your assignment.
+
+In modules 6 and 7, I explored two of the most basic building blocks of any programming language: functions and strings.
+
+There is a connection between them. In the world of PHP, if a string is the data, then a function is the action. Strings allow us to store text, but they are rarely static. We often need to format, combine, or display them conditionally.
+
+This is where functions come in. A function is a reusable block of code designed to perform a specific task. By wrapping string logic inside a function, we can write one function that accepts different strings as inputs and outputs them perfectly formatted every time.
+
+For this assignment, I showed these concepts through two independent tests:
+
+The first test was the function test, where I created a custom function called displayCompanyName(). Inside this function, I declared a string variable \$Company1 containing "University of South Florida." I then used the echo command to wrap that string in HTML tags. This showed how functions can encapsulate brand information and display it consistently.
+
+![](phptest1.png)
+
+The second test was the string test, where I treated the string "Hello!" as an array, pulling out individual characters and then stitching them back together. I then broke a full sentence into three separate values and used the dot operator (.) to merge them into a single cohesive paragraph.
+
+![](phptest2.png)
+
+To keep my main webpage clean, I used an HTML iframe to display the results. When a user clicks the "Run Test" button, the browser sends a request to the PHP files on the server, which execute the logic and send the result back to the frame.
+
+![](iframe.png)
