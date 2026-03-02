@@ -9,8 +9,10 @@ date: 2026-03-02
 output:
   distill::distill_article:
     self_contained: false
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
-
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
@@ -18,41 +20,36 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## These are responses to our module 8 tasks
 
-1. What is the difference between \$_Get vs. $_POST?
+1.  What is the difference between \$\_Get vs. \$\_POST?
 
-\$_GET and \$_POST are used to collect data sent from an HTML form or via a URL.
-While they both transport information from the user to the server, they do so in
-very different ways.
+\$\_GET and \$\_POST are used to collect data sent from an HTML form or
+via a URL. While they both transport information from the user to the
+server, they do so in very different ways.
 
-When you use GET, the data is sent as part of the URL and users can bookmark
-specific results. It is fast and easy for navigating through content, but
-because the data is in the URL, it stays in the browser history and server logs,
-which means this should never be used for passwords or any other confidential
-information. Additionally, it should not be used in places that do not have a
-secure network.
+When you use GET, the data is sent as part of the URL and users can
+bookmark specific results. It is fast and easy for navigating through
+content, but because the data is in the URL, it stays in the browser
+history and server logs, which means this should never be used for
+passwords or any other confidential information. Additionally, it should
+not be used in places that do not have a secure network.
 
-With POST, the data is sent inside the body of the HTTP request. It does not
-show up in the URL, information sent from a form is invisible to others, and it
-has no limits on the amount of information to send. Although it is much more 
-secure for transmitting sensitive information, you cannot bookmark a POST
-request and you cannot share a specific webpage with others.
+With POST, the data is sent inside the body of the HTTP request. It does
+not show up in the URL, information sent from a form is invisible to
+others, and it has no limits on the amount of information to send.
+Although it is much more secure for transmitting sensitive information,
+you cannot bookmark a POST request and you cannot share a specific
+webpage with others.
 
-
-2. Create an HTML form page on your website that used Post or Get and connect to
-.php file post on your website and collects the data from the form.
+2.  Create an HTML form page on your website that used Post or Get and
+    connect to .php file post on your website and collects the data from
+    the form.
 
 Post it on your website.
 
-I have successfully added a module 8 page to my website that has an HTML form. I
-used POST because it is cleaner and it does not clutter my URL information. I
-also changed the button type from button to submit.
+I have successfully added a module 8 page to my website that has an HTML
+form. I used POST because it is cleaner and it does not clutter my URL
+information. I also changed the button type from button to submit.
 
+Here is a link to the module 8 webpage that runs the .php file test:
 
-
-
-
-
-
-
-
-
+https://skylarwalshlis4365.infinityfree.me/Module8.html
