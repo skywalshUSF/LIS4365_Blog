@@ -1,0 +1,104 @@
+---
+title: "Module 9 Assignment"
+description: |
+  Introduction to  MySQL and connection to PHP
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-02-module-8-assignment/form.png?raw=true
+author:
+  - name: Skylar Walsh
+date: 2026-03-09
+output:
+  distill::distill_article:
+    self_contained: false
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## These are responses to our module 9 tasks
+
+In your blog, you will discuss the three steps you conducted in creating
+your first MySQL table and explain what was easy, hard and not clear in
+your progress in creating your first table in MySQL. Make sure to
+provide detail explanation on each step.
+
+## Step 1
+
+In your infinityfree.net and your cpanel/Vistapanel. Click on Create New
+MySQLdatabases.
+
+To create a new MySQL database on infinityfree.com, I had to use their
+web-based control panel. This means that I cannot directly use SQL
+commands from within scripts or external tools. Following the steps to
+create a database, I started by accessing my hosting account, then
+opened the control panel. I then navigated to the databases section and
+selected the MySQL databases icon. Finally, I began naming and creating
+a database by entering a name using only letters and numbers. Once that
+was created, I got these specific details to connect my website to the
+database: the database name, the username, and the hostname.
+
+## Step 2
+
+Next, step II click on phpMyAdmin. It will open up the table. Here is
+where you will design your own table properties. Your assignment is to
+provide two variables. In this example, I create three variables. When
+you create your variables, you need to decide on variable TYPE. Your
+selection will consist of: INT, VARCHAR, TEXT, DATA, NUMERIC. Make sure
+you fully understand what INT and VARCHAR stand for.
+
+When I first opened phpMyAdmin and selected my database, I saw a screen
+asking me to "Create table." Designing a table is basically defining the
+columns or attributes that will hold my data, as well as rows that store
+each record or entity instance. I started by naming my table
+'module9assignment.' By giving my table a name, I am also giving my
+entity or object a name. Next, I began entering properties for each
+column. In that process, I made sure that each variable name for the row
+has the right type to keep my database fast and organized. For instance,
+INT is best for whole numbers, VARCHAR is best for variable-length text,
+TEXT is best for content or descriptions that are long, DATE is good for
+data in chronological order, and NUMERIC is good for any kind of number,
+including whole numbers. Once I filled out my columns and rows, I
+scrolled down and clicked Save, where my table is now live and ready to
+receive data.
+
+## Step 3
+
+Click on the Insert Tab under PHPMyAdmin. In this Tab you will fill out
+the data you assign to your variables.
+
+Once I have created my table structure, adding actual data is done
+through a manual entry form in the Insert Tab. In phpMyAdmin, I clicked
+on the name of the database I created, and below the database name, a
+list of my tables appeared. While I was doing this, I clicked the
+specific table I want to fill out. Once I have filled in the fields, I
+clicked the Go button and saw a green success message appear. Finally, I
+clicked the Browse tab to view my newly added data.
+
+Two queries were generated. The first was using the INSERT command.
+Then, Query 2 used SELECTALL (which is used to select everything from a
+table).
+
+## Explain what was easy, hard, and not clear in your progress in creating your first table in MySQL.
+
+This is my learning curve for my progress in creating my first table in
+MySQL:
+
+Starting with the easy stuff, creating the database is just a click of a
+button in the InfinityFree dashboard, and it was the simplest task. Once
+the table exists, the insert tab feels very familiar. Also, using
+phpMyAdmin is much easier than typing raw SQL code into a black command
+prompt.
+
+For the hard stuff, choosing the right data types was hard. I picked INT
+for one of my variables but tried to save a decimal, which made my data
+break. Also, the fact that you cannot use external software on
+InfinityFree makes debugging a bit more tedious since you are forced to
+use the web interface.
+
+Finally, for the unclear stuff, InfinityFree uses my Main Hosting
+Account Password for the database, not a separate one I created. This
+gives me "Access Denied" errors when I try to use a client area login
+password instead.
