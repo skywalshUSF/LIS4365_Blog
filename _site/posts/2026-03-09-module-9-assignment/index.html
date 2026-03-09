@@ -2174,15 +2174,8 @@ provide detail explanation on each step.</p>
 <h2 id="step-1">Step 1</h2>
 <p>In your infinityfree.net and your cpanel/Vistapanel. Click on Create New
 MySQLdatabases.</p>
-<p>To create a new MySQL database on infinityfree.com, I had to use their
-web-based control panel. This means that I cannot directly use SQL
-commands from within scripts or external tools. Following the steps to
-create a database, I started by accessing my hosting account, then
-opened the control panel. I then navigated to the databases section and
-selected the MySQL databases icon. Finally, I began naming and creating
-a database by entering a name using only letters and numbers. Once that
-was created, I got these specific details to connect my website to the
-database: the database name, the username, and the hostname.</p>
+<p>To create a new MySQL database on infinityfree.com, I used their
+web-based control panel. Following the steps to create a database, I started by accessing my hosting account, then opened the control panel. I then navigated to the databases section and selected the MySQL databases icon. Finally, I began naming and creating a database by entering a name using only letters and numbers. Once that was created, I got the specific details to connect my website to the database: the database name, the username, and the hostname.</p>
 <h2 id="step-2">Step 2</h2>
 <p>Next, step II click on phpMyAdmin. It will open up the table. Here is
 where you will design your own table properties. Your assignment is to
@@ -2214,9 +2207,11 @@ list of my tables appeared. While I was doing this, I clicked the
 specific table I want to fill out. Once I have filled in the fields, I
 clicked the Go button and saw a green success message appear. Finally, I
 clicked the Browse tab to view my newly added data.</p>
-<p>Two queries were generated. The first was using the INSERT command.
-Then, Query 2 used SELECTALL (which is used to select everything from a
-table).</p>
+<h2 id="establish-and-test-database-connection">Establish and test database connection</h2>
+<p>I made a file named ‘db_connect.php’ that follows the instructions in the PowerPoint presentation, teaching us how to use the mysql_connect() function to establishe a connection to a MySQL database server and includes a basic error check to stop the script if the connection fails.</p>
+<h2 id="step-2-from-the-powerpoint">Step 2 from the powerpoint:</h2>
+<h3 id="connect-php-to-mysql-perform-query-connect-html-form-to-mysql">Connect PHP to MySQL, Perform Query, Connect HTML form to MySQL</h3>
+<p>I was also able to create a couple of web forms that utilize .php files as demonstrated in the powerpoint presentation. The first button I created takes the data needed ti perform an INSERT query to add a record to my database, and the second button performs a SELECT* query to display all of the records in t he database table I created. Both of these HTML Web Forms call the db_connect() to establish and test the database connection and then carry out an action to run a .php file that will use the database and return a result to the webpage.</p>
 <h2 id="explain-what-was-easy-hard-and-not-clear-in-your-progress-in-creating-your-first-table-in-mysql.">Explain what was easy, hard, and not clear in your progress in creating your first table in MySQL.</h2>
 <p>This is my learning curve for my progress in creating my first table in
 MySQL:</p>

@@ -30,15 +30,8 @@ provide detail explanation on each step.
 In your infinityfree.net and your cpanel/Vistapanel. Click on Create New
 MySQLdatabases.
 
-To create a new MySQL database on infinityfree.com, I had to use their
-web-based control panel. This means that I cannot directly use SQL
-commands from within scripts or external tools. Following the steps to
-create a database, I started by accessing my hosting account, then
-opened the control panel. I then navigated to the databases section and
-selected the MySQL databases icon. Finally, I began naming and creating
-a database by entering a name using only letters and numbers. Once that
-was created, I got these specific details to connect my website to the
-database: the database name, the username, and the hostname.
+To create a new MySQL database on infinityfree.com, I used their
+web-based control panel. Following the steps to create a database, I started by accessing my hosting account, then opened the control panel. I then navigated to the databases section and selected the MySQL databases icon. Finally, I began naming and creating a database by entering a name using only letters and numbers. Once that was created, I got the specific details to connect my website to the database: the database name, the username, and the hostname.
 
 ## Step 2
 
@@ -77,9 +70,17 @@ specific table I want to fill out. Once I have filled in the fields, I
 clicked the Go button and saw a green success message appear. Finally, I
 clicked the Browse tab to view my newly added data.
 
-Two queries were generated. The first was using the INSERT command.
-Then, Query 2 used SELECTALL (which is used to select everything from a
-table).
+## Establish and test database connection
+
+I made a file named 'db_connect.php' that follows the instructions in the PowerPoint presentation, teaching us how to use the mysql_connect() function to establishe a connection to a MySQL database server and includes a basic error check to stop the script if the connection fails.
+
+## Step 2 from the powerpoint:
+
+### Connect PHP to MySQL, Perform Query, Connect HTML form to MySQL
+
+I was also able to create a couple of web forms that utilize .php files as demonstrated in the powerpoint presentation. The first button I created takes the data needed ti perform an INSERT query to add a record to my database, and the second button performs a SELECT* query to display all of the records in t he database table I created. Both of these HTML Web Forms call the db_connect() to establish and test the database connection and then carry out an action to run a .php file that will use the database and return a result to the webpage.
+
+
 
 ## Explain what was easy, hard, and not clear in your progress in creating your first table in MySQL.
 
