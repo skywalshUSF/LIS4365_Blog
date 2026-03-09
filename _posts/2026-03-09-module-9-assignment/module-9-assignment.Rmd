@@ -102,3 +102,7 @@ Finally, for the unclear stuff, InfinityFree uses my Main Hosting
 Account Password for the database, not a separate one I created. This
 gives me "Access Denied" errors when I try to use a client area login
 password instead.
+
+Here is a link to the module 8 webpage that runs the .php file test:
+
+<https://skylarwalshlis4365.infinityfree.me/Module9.html>
