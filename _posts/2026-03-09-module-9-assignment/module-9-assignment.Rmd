@@ -72,7 +72,7 @@ clicked the Browse tab to view my newly added data.
 
 ## Establish and test database connection
 
-I made a file named 'db_connect.php' that follows the instructions in the PowerPoint presentation, teaching us how to use the mysql_connect() function to establishe a connection to a MySQL database server and includes a basic error check to stop the script if the connection fails.
+I made a file named 'db_connect.php' that follows the instructions in the PowerPoint presentation, teaching us how to use the mysql_connect() function to establish a connection to a MySQL database server and includes a basic error check to stop the script if the connection fails.
 
 ## Step 2 from the powerpoint:
 
