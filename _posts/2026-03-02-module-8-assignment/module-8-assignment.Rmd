@@ -2,7 +2,7 @@
 title: "Module 8 Assignment"
 description: |
   HTML form in PHP and working with files
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-02-module-8-assignment/form.png?raw=true
+preview: 
 author:
   - name: Skylar Walsh
 date: 2026-03-02
