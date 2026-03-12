@@ -20,7 +20,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Here are my responses to our module 10 tasks
 
-## Step 1
+### Step 1
 
 In your infinityfree.net and your phpMyAdmin:
 
@@ -34,7 +34,7 @@ increment), name, lastName, and email.
 
 ![](studentTable.png)
 
-## Establish and test database connection
+## Establish and test database connection; PHP Connect to MySQL
 
 Next, I created a 'db_connect.php' file to establish and test the
 connection to my database:
@@ -48,7 +48,7 @@ and PDO (PHP Data Objects).
 
 ![](insert.png)
 
-## Next, I inserted data to my MySQL table based on an HTML form.
+## View database records with SELECT* query.
 
 Finally, I created another .php file that runs a MySQL SELECT\* query to
 print the records from the database table to the webpage using prepared
@@ -56,10 +56,10 @@ statements and PDO (PHP Data Objects). I found it very interesting to
 work with the PDO objects that would obtain input values from the web
 form and store them in local variables that the .php file can use to
 work with the data in my database and return a final object to be
-displayed on the webform.
+displayed on the web form.
 
-![](records.png)
+![](records2.png)
 
-Here is a link to the module 10 webpage that runs the .php file test:
+Here is a link to the module 10 webpage that runs the .php file tests:
 
 <https://skylarwalshlis4365.infinityfree.me/Module10.html>
