@@ -12,8 +12,8 @@
     "date": "2026-03-12",
     "categories": [],
     "contents": "\r\nHere are my responses to our module 10 tasks\r\nStep 1\r\nIn your infinityfree.net and your phpMyAdmin:\r\nClick on phpMyAdmin, and create ‘Students’ table.\r\nI started by accessing my InfinityFree hosting account, then opened the\r\ncontrol panel. I then navigated to the databases section and selected\r\nthe MySQL databases icon. Finally, I began naming and creating a new\r\n‘Students’ table that included four columns: ID (primary key auto\r\nincrement), name, lastName, and email.\r\n\r\nEstablish and test database connection\r\nNext, I created a ‘db_connect.php’ file to establish and test the\r\nconnection to my database:\r\n\r\nNext, I inserted data to my MySQL table based on an HTML form.\r\nI decided to use an ‘insert.php’ file that utilizes prepared statements\r\nand PDO (PHP Data Objects).\r\n\r\nNext, I inserted data to my MySQL table based on an HTML form.\r\nFinally, I created another .php file that runs a MySQL SELECT* query to\r\nprint the records from the database table to the webpage using prepared\r\nstatements and PDO (PHP Data Objects). I found it very interesting to\r\nwork with the PDO objects that would obtain input values from the web\r\nform and store them in local variables that the .php file can use to\r\nwork with the data in my database and return a final object to be\r\ndisplayed on the webform.\r\n\r\nHere is a link to the module 10 webpage that runs the .php file test:\r\nhttps://skylarwalshlis4365.infinityfree.me/Module10.html\r\n\r\n\r\n\r\n",
-    "preview": "https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-09-module-9-assignment/mod9pic.png?raw=true",
-    "last_modified": "2026-03-12T08:46:52-04:00",
+    "preview": "https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-12-module-10-assignment/studentTable.png?raw=true",
+    "last_modified": "2026-03-12T09:50:27-04:00",
     "input_file": "module-10-assignment.knit.md"
   },
   {

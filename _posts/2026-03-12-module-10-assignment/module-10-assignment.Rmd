@@ -2,7 +2,7 @@
 title: "Module 10 Assignment"
 description: |
   MySQL and PHP
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-09-module-9-assignment/mod9pic.png?raw=true
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-12-module-10-assignment/studentTable.png?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-03-12
