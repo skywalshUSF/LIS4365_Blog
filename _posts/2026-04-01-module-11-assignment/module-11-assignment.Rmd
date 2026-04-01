@@ -2,7 +2,7 @@
 title: "Module 11 Assignment"
 description: |
   The Future of Web Technologies
-preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-12-module-10-assignment/studentTable.png?raw=true
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-04-01-module-11-assignment/blog.png?raw=true
 author:
   - name: Skylar Walsh
 date: 2026-04-01
