@@ -1,0 +1,63 @@
+---
+title: "Module 11 Assignment"
+description: |
+  The Future of Web Technologies
+preview: https://github.com/skywalshUSF/LIS4365_Blog/blob/main/_posts/2026-03-12-module-10-assignment/studentTable.png?raw=true
+author:
+  - name: Skylar Walsh
+date: 2026-04-01
+output:
+  distill::distill_article:
+    self_contained: false
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Here are my responses to our module 11 tasks
+
+### Step 1
+
+Post any questions you may have about the Final Project and I will
+answer them. Also, if you have found a clever solution to a problem,
+please feel free to share.
+
+Here is a link to a copy of my module 11 discussion forum post on my
+website:
+
+<https://skylarwalshlis4365.infinityfree.me/Module11.html>
+
+### My Discussion Forum Post
+
+For my final project, I built Tampa Paws Rescue, a full-stack site that
+brings everything we have tackled this semester in LIS 4365 together.
+Specifically, all of the skills we learned working with HTML, PHP, and
+MySQL. The goal of our final project was to create a functional,
+database-driven platform to promote a local non-profit, which handles
+real-world tasks like dynamic content loading, CRUD, and secure data
+entry. I spent a lot of time in the wireframing phase to make sure the
+layout made sense for a rescue organization before I started working on
+the code. And now, I am focusing on how well that plan translated to the
+final version. As I wrap things up, I would like to get your opinion on
+a few technical spots where I am trying to polish up my final draft.
+
+1.  When working on the PHP/MySQL connection, do you have any tips for
+    structuring queries so the "Available Pets" gallery pulls data as
+    efficiently as possible?
+
+2.  I have implemented some prepared statements for input from the web
+    forms, but I am curious if there are any specific PHP
+    techniques/methods for extra validation to keep the database secure?
+
+3.  When looking at how my final HTML/PHP compares to the original
+    wireframe, how can I keep the hierarchy intact when adding dynamic
+    elements?
+
+4.  Regarding the CRUD requirements, I have already built the logic to
+    add, remove, and trigger updates to the database; do you think the
+    final project also needs a dedicated "edit/modify" feature for
+    existing records?
